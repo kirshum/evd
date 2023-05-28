@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+May 29 2023
 
 # Privacy Policy
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
@@ -40,14 +40,14 @@ Various remotely save this querulously explicitly one this and far congenially b
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 3.0 HEALTHKIT DATA
+If you choose to have EVDY app integrate with HealthKit then the application will have access only to the health data types you opt-in to access.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+The health data read from HealthKit is used for display within the app. It is not collected or disclosed outside of your local installation of the app. Only those data types relevant to the app are accessed.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+EVDY app requests permission to write certain data types into your HealthKit data store.
+
+In no case is your health data ever transfered to a 3rd party. It is only ever kept within the application or transferred to your personal HealthKit data store as per your permission choices.
 
 <br>
 
