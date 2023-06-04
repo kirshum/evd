@@ -42,6 +42,6 @@ We do not knowingly collect personally identifiable information from anyone. In 
 We reserves the right, in its sole discretion, to change or modify this Privacy Policy at any time by posting the changed or modified version of the Privacy Policy on the Site. Any such changes or modifications will be effective immediately upon posting. If we make any changes to this Privacy Policy, we will change the Last Revised date below.
 <br>
 
-## 4.0 Contact Us
+## 5.0 Contact Us
 If you have any questions about this Privacy Policy, please contact us at support@evdyapp.ru 
 <br>
