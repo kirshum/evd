@@ -9,7 +9,7 @@ May 29 2023
 
 # Privacy Policy
 This privacy notice for Kirill Shumakov ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-- Download and use our mobile application (EVDY), or any other application of ours that links to this privacy notice
+- Download and use our mobile application (EVDY Steps), or any other application of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 <br>
 
@@ -31,7 +31,7 @@ We have no control over and assume no responsibility for the content, privacy po
 <br>
 
 ## 2.0 HEALTHKIT DATA
-If you choose to have EVDY app integrate with HealthKit then the application will have access only to the health data types you opt-in to access.The health data read from HealthKit is used for display within the app. It is not collected or disclosed outside of your local installation of the app. Only those data types relevant to the app are accessed.EVDY app requests permission to write certain data types into your HealthKit data store. In no case is your health data ever transfered to a 3rd party. It is only ever kept within the application or transferred to your personal HealthKit data store as per your permission choices.
+If you choose to have EVDY steps app integrate with HealthKit then the application will have access only to the health data types you opt-in to access.The health data read from HealthKit is used for display within the app. It is not collected or disclosed outside of your local installation of the app. Only those data types relevant to the app are accessed.EVDY steps app requests permission to write certain data types into your HealthKit data store. In no case is your health data ever transfered to a 3rd party. It is only ever kept within the application or transferred to your personal HealthKit data store as per your permission choices.
 <br>
 
 ## 3.0 CHILDREN'S PRIVACY
@@ -44,4 +44,5 @@ We reserves the right, in its sole discretion, to change or modify this Privacy 
 
 ## 5.0 Contact Us
 If you have any questions about this Privacy Policy, please contact us at support@evdyapp.ru 
+
 <br>
